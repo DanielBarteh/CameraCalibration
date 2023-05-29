@@ -1,8 +1,7 @@
-<p style="text-align: center;margin-bottom: -50px">
-    <a href="https://dabram.ir/resume" target="_blank"><img src="https://dabram.ir/file/image/rezome/perseneli.jpg" height="100" alt="Daniel Barteh"></a>
-</p>
-<br><br>
+<center>
+<a href="https://dabram.ir/resume" target="_blank"><img src="https://dabram.ir/file/image/rezome/perseneli.jpg" height="100" alt="Daniel Barteh"></a>
 <center>Daniel Barteh</center>
+</center>
 <center>
 <a href="https://dabram.ir/resume">Full Resume</a>
 &nbsp;&nbsp;
