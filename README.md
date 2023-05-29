@@ -1,9 +1,10 @@
 <p align="center">
-<a href="https://dabram.ir/resume" target="_blank"><img src="https://dabram.ir/file/image/rezome/perseneli.jpg" height="100" alt="Daniel Barteh"></a>
+<a href="https://dabram.ir/resume" target="_blank"><img style="border-radius: 10px" src="https://dabram.ir/file/image/rezome/perseneli.jpg" height="100" alt="Daniel Barteh"></a>
 <br>
-Daniel Barteh
-</p>
-<p align="center">
+<b>Daniel Barteh</b>
+<br>
+- Programmer, designer, composer and editor -
+<br>
 <a href="https://dabram.ir/resume">Full Resume</a>
 &nbsp;&nbsp;
 <a href="https://github.com/DanielBarteh">GitHub</a>
